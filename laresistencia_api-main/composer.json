@@ -1,0 +1,11 @@
+{
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Models\\": "Models",
+      "Controllers\\": "Controllers",
+      "Utils\\": "Utils",
+      "Interfaces\\": "Interfaces"
+    }
+  }
+}
